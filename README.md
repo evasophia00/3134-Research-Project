@@ -4,15 +4,15 @@
 ## Description
 There are three different python codes to simulate results for creating a piece of music using Mozart's dice game.
 
-#### `brute_force.py` 
+#### [brute_force.py](../main/brute_force.py)
 
 Calculates the total number of ways to create a piece of music of n bars using a brute force method.  The program will ask you how many bars you would like to use.  Note: when n >= 10, the run time will be slow, so the program will prompt you if you would like to proceed with the program.
 
-#### `algorithm.py` 
+#### [algorithm.py](../main/algorithm.py)
 
 Calculates the total number of ways to create a piece of music of n bars using the algorithm I calculated.  The program will ask you how many bars you would like to use.
 
-#### `prob.py`
+#### [prob.py](../main/prob.py)
 Creates a graph called plot.png that will show the distribution of dice rolls and the probability that a number x will be rolled by two dice.
 
 ## How to Run
