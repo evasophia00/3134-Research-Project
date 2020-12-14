@@ -29,4 +29,4 @@ def find_count(num, count):
 	return count
 
 count = find_count(n, 0)
-print('{:,}'.format(count))
+print('There are a total of {:,} combinations of minuets that can be created'.format(count))

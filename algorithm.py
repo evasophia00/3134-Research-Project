@@ -13,4 +13,4 @@ except ValueError:
 
 exp = math.floor(n/8)
 count = (2**exp) * (11**(n-exp))
-print('{:,}'.format(count))
+print('There are a total of {:,} combinations of minuets that can be created'.format(count))
